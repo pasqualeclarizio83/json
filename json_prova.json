@@ -1,0 +1,121 @@
+{
+    "companyId": "IT-0-4889192",
+    "correlationId": "adffa4ea-f135-4f3b-be9f-81023aae6ae6",
+    "dateOfOrder": "2023-03-16T16:06:01.152Z",
+    "language": "IT",
+    "report": {
+        "alternateSummary": {
+            "activityClassifications": {
+                "description": "VENDITA DI BANANE DOC"
+            },
+            "address": "VIA ADRIANO OLIVETTI 11, 70056 CERVIA BA",
+            "businessName": "BALLI DI GRUPPO BALLI DI OGGI.",
+            "companyNumber": "IT128983477",
+            "companyRegistrationNumber": "TO1245890",
+            "companyStatus": {
+                "description": "Active",
+                "status": "Active"
+            },
+            "contactAddress": {
+                "city": "CERVIA",
+                "country": "IT",
+                "houseNumber": "11",
+                "postalCode": "70056",
+                "province": "BA",
+                "simpleValue": "VIA ADRIANO OLIVETTI 11, 70056 CERVIA BA IT",
+                "street": "VIA ADRIANO OLIVETTI"
+            },
+            "country": "IT",
+            "emailAddresses": "CERVIA_XY@PEC.IT",
+            "hqType": "Sede corrente",
+            "latestTurnoverFigure": {
+                "currency": "EUR",
+                "value": 11123489998
+            },
+            "latestUpdateOnIc": "2022-10-18T00:00:00Z",
+            "legalForm": "SOCIETA' PER AZIONI",
+            "legalFormType": "C",
+            "mainActivity": {
+                "code": "6201",
+                "description": "LE BANANE AL FORNO"
+            },
+            "numberOfEmployees": "1843",
+            "province": "BARI",
+            "publicRegisterSection": "ORDINARIA-ORDINARIA",
+            "raeCode": "830",
+            "reaInscriptionDate": "2006-03-27T00:00:00Z",
+            "registerStatus": "REGISTRATA",
+            "saeCode": "430",
+            "shareCapital": 24615694,
+            "taxCode": "00721090298",
+            "telephone": "0805552077",
+            "vatRegistrationNumber": "01320730154"
+        },
+        "companyId": "IT-0-BA481202",
+        "companySummary": {
+            "businessName": "MILLE BOLLE BLUE DI SAPONE SXY XYU.",
+            "companyNumber": "IT12348901",
+            "companyRegistrationNumber": "TO123456",
+            "companyStatus": {
+                "description": "Active",
+                "status": "Active"
+            },
+            "country": "IT",
+            "creditRating": {
+                "commonDescription": "Rischio Basso",
+                "commonValue": "B",
+                "creditLimit": {
+                    "currency": "EUR",
+                    "value": "2000000"
+                },
+                "providerDescription": "Rischio Basso",
+                "providerValue": {
+                    "maxValue": "100",
+                    "minValue": "0",
+                    "value": "70"
+                }
+            },
+            "latestTurnoverFigure": {
+                "value": 151249661
+            },
+            "mainActivity": {
+                "classification": "ATECO 2007",
+                "code": "6201",
+                "description": "Produzione di Banane"
+            }
+        },
+        "creditScore": {
+            "currentCreditRating": {
+                "commonDescription": "Rischio Basso",
+                "commonValue": "B",
+                "creditLimit": {
+                    "currency": "EUR",
+                    "value": "2000000"
+                },
+                "providerDescription": "Rischio Basso",
+                "providerValue": {
+                    "maxValue": "100",
+                    "minValue": "0",
+                    "value": "70"
+                }
+            },
+            "latestRatingChangeDate": "2022-07-15T21:22:19Z",
+            "previousCreditRating": {
+                "commonDescription": "Rischio Basso",
+                "commonValue": "B",
+                "creditLimit": {
+                    "currency": "EUR",
+                    "value": "1450000"
+                },
+                "providerDescription": "Rischio Basso",
+                "providerValue": {
+                    "maxValue": "100",
+                    "minValue": "0",
+                    "value": "61"
+                }
+            }
+        },
+        "language": "EN"
+    },
+    "userId": "111333999"
+}
